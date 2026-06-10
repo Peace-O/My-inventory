@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My inventory app</string>
+    <string name="get_started">Get Started</string>
+    <string name="todo">TODO</string>
+    <string name="campsite_commander">Campsite Commander</string>
+    <string name="detailed_view">Detailed View</string>
+    <string name="add_gear">Add Gear</string>
+    <string name="total_items_packed_0">Total Items Packed: 0</string>
+</resources>
